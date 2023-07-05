@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /$
+Allow: /about
+Allow: /intl/*/about
+Allow: /_meet$
+Allow: /_meet/$
+Allow: /sitemap.xml
+Disallow: /
+
+Sitemap: https://meet.google.com/sitemap.xml
