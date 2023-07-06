@@ -1,4 +1,4 @@
-# webscanner
+# Webscanner
 
 An automated tool for searching network and domain information. This tool is integrated with many reconnaissance tools in it, such as nmap, whois, ipaddress, domain check, etc. 
 
@@ -70,6 +70,10 @@ _This python tool will help you perform a nmap search for a given ip address.
 
 _This tool tells search engine crawlers which URLs the crawler can access on given site.
 "For this enter the URL, e.g: https://github.com"_
+
+## Author
+
+**_[LameUser](https://github.com/LameUser)_**
 
 ### `Whois.py`
 
