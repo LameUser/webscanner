@@ -5,7 +5,7 @@ An automated tool for searching network and domain information. This tool is int
 
 ## Installation
 
-<li>Go to the terminal and type "pwd"</li>
+<li>Go to the terminal and type "pwd"<li>
    ```sh
    pwd
    ```
