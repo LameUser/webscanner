@@ -47,10 +47,10 @@ An automated tool for searching network and domain information. This tool is int
 
 ## About the Sub-tools
 
- **`domain_name.py`**
+### `domain_name.py`
 
 _It confirms and outputs the main domain present in the url.
-"For this enter the URL"_
+"For this enter the URL, e.g: `https://github.com`"_
 
 ### `ip_address.py`
 
@@ -61,17 +61,17 @@ _This will do a nslookup and will prompt you the URL details.
 
 _The main python file which will be used to run the tool._
 
-### nmap.py
+### `nmap.py`
 
-This python tool will help you perform a nmap search for a given ip address.
-"For this enter an IP address, e.g: 192.148.1.2"
+_This python tool will help you perform a nmap search for a given ip address.
+"For this enter an IP address, e.g: `192.148.1.2`"_
 
-### Robots_txt.py
+### `Robots_txt.py`
 
-This tool tells search engine crawlers which URLs the crawler can access on given site.
-"For this enter the URL, e.g: https://github.com"
+_This tool tells search engine crawlers which URLs the crawler can access on given site.
+"For this enter the URL, e.g: https://github.com"_
 
-### Whois.py
+### `Whois.py`
 
-This tool will let you know whom the domain belongs to and related information.
-"For this enter the URL, e.g: https://github.com"
+_This tool will let you know whom the domain belongs to and related information.
+"For this enter the URL, e.g: https://github.com"_
