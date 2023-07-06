@@ -71,11 +71,13 @@ _This python tool will help you perform a nmap search for a given ip address.
 _This tool tells search engine crawlers which URLs the crawler can access on given site.
 "For this enter the URL, e.g: https://github.com"_
 
-## Author
-
-**_[LameUser](https://github.com/LameUser)_**
 
 ### `Whois.py`
 
 _This tool will let you know whom the domain belongs to and related information.
 "For this enter the URL, e.g: https://github.com"_
+
+
+## Author
+
+**_[LameUser](https://github.com/LameUser)_**
