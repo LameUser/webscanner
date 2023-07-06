@@ -2,6 +2,7 @@
 
 An automated tool for searching network and domain information. This tool is integrated with many reconnaissance tools in it, such as nmap, whois, ipaddress, domain check, etc. 
 
+
 ## How to install 
 
 $ Go to the terminal and type "pwd"
@@ -19,6 +20,9 @@ $ Give executable permission to the main.py using the "chmod +x main.py" command
 $ Now run the file using "python3 main.py" and enter the urls and ip address respectively.
 
 $ You many need to install some dependencies if not already present.
+
+
+
 
 ### domain_name.py
 
