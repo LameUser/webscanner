@@ -5,12 +5,19 @@ An automated tool for searching network and domain information. This tool is int
 ## How to install 
 
 $ Go to the terminal and type "pwd"
+
 $ Using "cd" command navigate and get to the directory where you want to install this tool.
+
 $ Then type "git clone https://github.com/LameUser/webscanner.git" and the tool will be clonned.
+
 $ Then navigate to the webscanner folder using "cd webscanner"
+
 $ Once entered the folder, check the permissions of each file by using "ls -l" command.
+
 $ Give executable permission to the main.py using the "chmod +x main.py" command, which will allow the file to be executed.
+
 $ Now run the file using "python3 main.py" and enter the urls and ip address respectively.
+
 $ You many need to install some dependencies if not already present.
 
 ### domain_name.py
