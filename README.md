@@ -30,7 +30,7 @@ An automated tool for searching network and domain information. This tool is int
    ls -l
    ```
 
-7. Give executable permission to the main.py using the "chmod +x 'main.py'" command, which will allow the file to be executed.
+7. Give executable permission to the main.py using the "chmod +x `main.py`" command, which will allow the file to be executed.
    ```sh
    chnod +x main.py
    ```
@@ -47,7 +47,7 @@ An automated tool for searching network and domain information. This tool is int
 
 ## About the Sub-tools
 
-### domain_name.py
+### `domain_name.py`
 
 It confirms and outputs the main domain present in the url.
 "For this enter the URL"
