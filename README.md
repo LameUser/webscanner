@@ -11,20 +11,36 @@ An automated tool for searching network and domain information. This tool is int
    ```
 
 2. Using "cd" command navigate and get to the directory where you want to install this tool.
-```sh
-cd
-```
+   ```sh
+   cd ~ 
+   ```
 
 3. Then type "git clone https://github.com/LameUser/webscanner.git" and the tool will be clonned.
-```sh
-git clone https://github.com/LameUser/webscanner.git
-```
+   ```sh
+   git clone https://github.com/LameUser/webscanner.git
+   ```
 
 4. Then navigate to the webscanner folder using "cd webscanner"
-5. Once entered the folder, check the permissions of each file by using "ls -l" command.
-6. Give executable permission to the main.py using the "chmod +x main.py" command, which will allow the file to be executed.
-7. Now run the file using "python3 main.py" and enter the urls and ip address respectively.
-8. You many need to install some dependencies if not already present.
+   ```sh
+   cd webscanner
+   ```
+   
+6. Once entered the folder, check the permissions of each file by using "ls -l" command.
+   ```sh
+   ls -l
+   ```
+
+7. Give executable permission to the main.py using the "chmod +x main.py" command, which will allow the file to be executed.
+   ```sh
+   chnod +x main.py
+   ```
+   
+8. Now run the file using "python3 main.py" and enter the urls and ip address respectively.
+   ```sh
+   python3 main.py
+   ```
+   
+9. You many need to install some dependencies if not already present.
 
 
 
