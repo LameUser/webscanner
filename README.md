@@ -45,6 +45,8 @@ An automated tool for searching network and domain information. This tool is int
 
 
 
+## About the Sub-tools
+
 ### domain_name.py
 
 It confirms and outputs the main domain present in the url.
