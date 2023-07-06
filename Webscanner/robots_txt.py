@@ -1,3 +1,9 @@
+"""
+Created on Wed Jul 5 23:56:23 2023
+
+@author: LameUser
+"""
+
 import urllib.request
 import io
 
