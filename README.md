@@ -50,7 +50,7 @@ An automated tool for searching network and domain information. This tool is int
 ### `domain_name.py`
 
 _It confirms and outputs the main domain present in the url.
-"For this enter the URL, e.g: `https://github.com`"_
+"For this enter the URL, e.g: https://github.com"_
 
 ### `ip_address.py`
 
@@ -64,7 +64,7 @@ _The main python file which will be used to run the tool._
 ### `nmap.py`
 
 _This python tool will help you perform a nmap search for a given ip address.
-"For this enter an IP address, e.g: `192.148.1.2`"_
+"For this enter an IP address, e.g: 192.148.1.2"_
 
 ### `Robots_txt.py`
 
