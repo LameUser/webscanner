@@ -47,15 +47,15 @@ An automated tool for searching network and domain information. This tool is int
 
 ## About the Sub-tools
 
-<li>domain_name.py`</li>
+<li>`domain_name.py`</li>
 
-   _It confirms and outputs the main domain present in the url.
-   "For this enter the URL, e.g: https://github.com"_
+_It confirms and outputs the main domain present in the url.
+"For this enter the URL, e.g: https://github.com"_
 
 <li>ip_address.py</li>
 
-   _This will do a nslookup and will prompt you the URL details.
-   "For this enter the URL, e.g: https://github.com "_
+ _This will do a nslookup and will prompt you the URL details.
+For this enter the URL, e.g: https://github.com "_
 
 <li>Main.py</li>
 
